@@ -1,0 +1,11 @@
+{
+    "BrandsTypes": {
+        "1": "品牌類型"
+    },
+    "StockLocation": {
+        "1": "庫存位置"
+    },
+    "FilterProducts": {
+        "1": "產品分類"
+    }
+}
